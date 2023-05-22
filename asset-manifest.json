@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Axios-Pokemon/static/css/main.073c9b0a.css",
+    "main.js": "/Axios-Pokemon/static/js/main.1c649049.js",
+    "static/js/787.8bf71bfc.chunk.js": "/Axios-Pokemon/static/js/787.8bf71bfc.chunk.js",
+    "static/media/logo.svg": "/Axios-Pokemon/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Axios-Pokemon/index.html",
+    "main.073c9b0a.css.map": "/Axios-Pokemon/static/css/main.073c9b0a.css.map",
+    "main.1c649049.js.map": "/Axios-Pokemon/static/js/main.1c649049.js.map",
+    "787.8bf71bfc.chunk.js.map": "/Axios-Pokemon/static/js/787.8bf71bfc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.1c649049.js"
+  ]
+}
